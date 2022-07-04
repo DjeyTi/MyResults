@@ -1,0 +1,15 @@
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\bin\Debug\net6.0\Programm.exe
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\bin\Debug\net6.0\Programm.deps.json
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\bin\Debug\net6.0\Programm.runtimeconfig.json
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\bin\Debug\net6.0\Programm.dll
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\bin\Debug\net6.0\Programm.pdb
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\Programm.csproj.AssemblyReference.cache
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\Programm.AssemblyInfoInputs.cache
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\Programm.AssemblyInfo.cs
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\Programm.csproj.CoreCompileInputs.cache
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\Programm.dll
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\refint\Programm.dll
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\Programm.pdb
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\Programm.genruntimeconfig.cache
+C:\Users\papa7\OneDrive\Рабочий стол\MyResults\Programm\obj\Debug\net6.0\ref\Programm.dll
